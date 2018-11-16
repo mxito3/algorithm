@@ -1,3 +1,5 @@
 n 个字符串全排列，例如输入[i love byte dance]
 	若这四个单词组合成"ilovebytedance"输出true 
 	否则输出false
+
+	要求：每个单词最多用一次，不必全用上
