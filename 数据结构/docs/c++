@@ -6,3 +6,4 @@
 3.切割字符串
 	strtok
 4.存储字符串用string 或者 char[]
+5.查找　find 在<algorithm>中

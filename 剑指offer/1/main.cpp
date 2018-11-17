@@ -10,7 +10,7 @@ public:
 		{
 			for(int i=0;i<array.size();i++)
 			{
-				vector<int>::iterator it=find(array[i].begin(),array[i].end(),target);
+				vector<int>::iterator it=find(array[i].begin(),array[i].end(),target);  //用的是algorithm的函数
 				if(it!=array[i].end())
 				{
 					result=true;
